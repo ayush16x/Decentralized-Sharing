@@ -1,4 +1,4 @@
-Decentralized Image Upload and Sharing
+# Decentralized Image Upload and Sharing
 
 A decentralized application that allows users to upload images to IPFS and manage access control via a Solidity smart contract. The system ensures secure, immutable storage and enables permission-based image sharing.
 
